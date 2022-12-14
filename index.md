@@ -8,5 +8,4 @@
 layout: page
 ---
 
-Double Bagel Games is a small mobile games studio in Toronto, Ontario. We are currently in development on a number of small mobile games that
-we look forward to sharing with you in 2023. Stay tuned!
+Double Bagel Games is a small mobile games studio in Toronto, Ontario. We are currently in development on a number of small mobile games that we look forward to sharing with you in 2023. Stay tuned!
