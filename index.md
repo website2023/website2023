@@ -9,7 +9,10 @@ layout: page
 ---
 
 Double Bagel Games is a small mobile games studio in Toronto, Canada.
-We are currently in development on a number of small mobile games that we look forward to sharing with you in 2023. Stay tuned!
+I am currently in development on a number of small mobile games that I look forward to sharing with you in 2023. Stay tuned!
+
+In the meantime, subscribe to my free email updates and get free early access to my next game.
+
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
