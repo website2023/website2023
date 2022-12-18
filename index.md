@@ -26,11 +26,12 @@ In the meantime, subscribe to my free email updates and get free early access to
 <div id="mc_embed_signup">
     <form action="https://doublebagelgames.us12.list-manage.com/subscribe/post?u=bb6443bd267b191aff8478c70&amp;id=199b661161&amp;f_id=000756e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
-        <h2>Subscribe and get a free game!</h2>
+        <h2>Get email updates and a free game!</h2>
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">First Name </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
+</label>
+	<input type="text" value="" name="FNAME" class="required" id="mce-FNAME" required>
 	<span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
 </div>
 <div class="mc-field-group">
