@@ -11,9 +11,9 @@ layout: page
 Double Bagel Games is a small mobile games studio launching soon. Our mission is to remind people everywhere of the importance of play
 by providing immediately accessible, fun, engaging mobile games.
 
-I am currently in development on a number of small mobile games that I look forward to sharing with you in 2023. So stay tuned by subscribing to my free email updates.
+We are currently in development on a number of small mobile games that I look forward to sharing with you in 2023. So stay tuned by subscribing to my free email updates.
 
-<strong>As a bonus for subscribing, you'll get free early access to my next game.</strong> After subscribing, make sure to check your spam folder in case the first email arrives there. To prevent future email deliverability issues, I also recommend adding my email address to your contact list.
+<strong>As a thank you for subscribing, you'll get free early access to my next game.</strong> After subscribing, make sure to check your spam folder in case the first email arrives there. To prevent future email deliverability issues, I also recommend adding my email address to your contact list.
 
 <br>
 <br>
