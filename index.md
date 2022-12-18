@@ -8,7 +8,7 @@
 layout: page
 ---
 
-Double Bagel Games is a small mobile games studio in Toronto, Canada launching soon. Our mission is to remind people everywhere of the importance of play
+Double Bagel Games is a small mobile games studio launching soon. Our mission is to remind people everywhere of the importance of play
 by providing immediately accessible, fun, engaging mobile games.
 
 I am currently in development on a number of small mobile games that I look forward to sharing with you in 2023. So stay tuned by subscribing to my free email updates.
