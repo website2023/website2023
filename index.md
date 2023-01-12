@@ -8,7 +8,7 @@
 layout: page
 ---
 
-Double Bagel Games is a small games studio that launched in January 2023 and is currently working on a number of small mobile games that I look forward to sharing with you soon.
+Double Bagel Games is a small games studio that launched in January 2023 and is currently working on a number of fun, small mobile games that I look forward to sharing with you soon.
 
 <strong>Subscribe to my free email newsletter below and I’ll send you the latest mobile game I’ve been working on.</strong>
 
