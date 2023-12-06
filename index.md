@@ -8,9 +8,9 @@
 layout: page
 ---
 
-Double Bagel Games is a small studio that launched in 2023 and is working on a number of fun, small mobile games.
+Double Bagel Games is a small studio that launched in early 2023 to make fun, small mobile games. My portfolio currently contains 5 games (most recent release was in July 2023). All games are free and do not contain in-app purchases or advertising.
 
-<strong>Want to play my games and get updates on new ones I'm making? Subscribe to my free email newsletter below.</strong>
+<strong>Subscribe to my free email newsletter below to play my 5 games.</strong>
 
 After subscribing, make sure to check your spam folder as the first email might arrive there.
 
@@ -28,7 +28,7 @@ After subscribing, make sure to check your spam folder as the first email might 
 <div id="mc_embed_signup">
     <form action="https://doublebagelgames.us12.list-manage.com/subscribe/post?u=bb6443bd267b191aff8478c70&amp;id=199b661161&amp;f_id=000756e0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
-        <h2>Get email updates!</h2>
+        <h2>Get my games!</h2>
         <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
